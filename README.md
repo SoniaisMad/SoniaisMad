@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SoniaisMad
 - 👀 I’m interested in Devops subjects and clean coding
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on Golang and/or Node.js open source projects
+- 🌱 I’m looking to collaborate on Golang and/or Node.js open source projects
 - 📫 How to reach me : manoubisonia@gmail.com
 
 <!---
